@@ -17,5 +17,3 @@ This project requires mongodb to be istalled on the local machine.
 3. Navigate to /ui folder and run "npm install"
 4. Start frontend using "npm start"
 5. Using your browser, navigate to "localhost:3000"
-
-###Totte Sjöman 2019
