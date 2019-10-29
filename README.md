@@ -1,4 +1,4 @@
-#Parking Spaces
+# Parking Spaces
 
 Web app that utilizes the Helsinki Regional Transport Authority's Park & Ride API
 to show available parking spaces based upon a given facility's id.
